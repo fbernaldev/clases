@@ -2,7 +2,7 @@
 //pensamiento
 //1. leer edad
 //2. verificar si es mayot
-//3. mostar mensaje
+//3. mostrar mensaje
 /*Algoritmo mayordeedad
 	Definir edad Como Entero
 	Escribir "ingrese su edad"
