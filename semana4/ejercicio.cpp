@@ -5,11 +5,13 @@ using namespace std;
 
 int main() {
 
-    int x;
-    cout<<"Ingrese el valor de X: ";
-    cin>>x;
-    x+=5;
-    cout<<"Nuevo valor de la Variable:"<<x<<endl;
+ int x;
+ cout<<"Ingrese el valor de la Variable: ";
+ cin>>x;
+
+ x+=5;
+
+ cout<<"EL nuevo valor de la variable es: "<<x<<endl;
 
     return 0;
 }

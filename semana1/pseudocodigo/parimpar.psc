@@ -8,3 +8,9 @@ Algoritmo parimpar
 		Escribir "el numero es impar"
 	FinSi
 FinAlgoritmo
+
+
+Grupo 3 
+* BERNAL AGUILAR FELIX 
+- HILPA PÉREZ – YOHAN
+- VIDAURRE POLO – JEAN PAUL
